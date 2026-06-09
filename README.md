@@ -41,19 +41,19 @@ Analyzes sales trends over time and uses forecasting to estimate future performa
 
 ### KPI Overview
 
-![KPI Overview](screenshots/kpi-overview.png)
+![KPI Overview](screenshots/KPI_Overview.JPG)
 
 ### Regional Map
 
-![Regional Map](screenshots/regional-map.png)
+![Regional Map](screenshots/Regional_Map.JPG)
 
 ### Category Analysis
 
-![Category Analysis](screenshots/category-analysis.png)
+![Category Analysis](screenshots/Category_Bar_Chart.JPG)
 
 ### Sales Trend & Forecast
 
-![Sales Trend](screenshots/sales-trend-forecast.png)
+![Sales Trend](screenshots/Time_Trend.JPG)
 
 ## Dataset
 
